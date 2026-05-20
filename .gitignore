@@ -1,0 +1,49 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-workspace
+.classpath
+
+# Dependencies
+node_modules/
+.yarn/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Compiled Files
+*.pyc
+*.pyo
+__pycache__/
+*.class
+*.jar
+
+# Log Files
+*.log
+logs/
+
+# Build Directories
+dist/
+build/
+*.egg-info/
+
+# OS Specific
+.Spotlight-V100
+.Trashes
+
+# Sensitive Information
+*.pem
+*.key
+*.p8
